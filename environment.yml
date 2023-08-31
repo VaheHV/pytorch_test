@@ -1,0 +1,15 @@
+name: delete
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - torchaudio
+  - pytorch::pytorch
+  - torchvision
+  - jupyter
+  - pandas
+  - opencv
+  - scikit-learn
+  - openpyxl
+  - sqlalchemy
+prefix: /Users/vahehovhannisyan/anaconda3/envs/delete
